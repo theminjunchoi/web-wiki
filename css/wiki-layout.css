@@ -98,7 +98,7 @@ aside h2 {
 }
 
 .profile-image {
-  background-image: url(/web-wiki/images/mj.jpeg);
+  background-image: url("https://github.com/theminjunchoi/web-wiki/blob/main/images/mj.jpeg");
   background-size: 100%;
   background-position: center 100%;
   width: var(--aside-width);
